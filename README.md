@@ -28,7 +28,7 @@ Pretrained on 3B tokens of FineWeb-Edu; instruction-finetuned on 75M tokens from
 ## 📫 Contact
 
 - Email: oleg.phenomenon@gmail.com
-- LinkedIn: [linkedin.com/in/olegphenomenon](https://www.linkedin.com/in/olegphenomenon) &nbsp;<sub>(check your actual URL and update)</sub>
+- LinkedIn: [linkedin.com/in/olegphenomenon](https://www.linkedin.com/in/olegphenomenon)
 - ORCID: [0009-0009-1303-3040](https://orcid.org/0009-0009-1303-3040)
 
 Open to conversations with ML researchers and teams working on efficient architectures, HDC / VSA, or alternative LM designs.
